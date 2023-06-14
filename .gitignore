@@ -1,0 +1,14 @@
+.vscode/configurationCache.log
+.vscode/settings.json
+.vscode/targets.log
+.vscode/dryrun.log
+*.o
+main
+.vscode/c_cpp_properties.json
+o/*.o
+h/ControladorUsuarios
+main.dSYM/Contents/Info.plist
+o/Calificacion.o
+.vscode/launch.json
+../vscode
+o/Calificacion.o
